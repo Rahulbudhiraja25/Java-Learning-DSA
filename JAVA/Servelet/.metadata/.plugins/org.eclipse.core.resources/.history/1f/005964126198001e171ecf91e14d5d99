@@ -1,0 +1,7 @@
+package com.mkRahul;
+
+import HttpServlet;
+
+public class SqServlet extends HttpServlet {
+
+}

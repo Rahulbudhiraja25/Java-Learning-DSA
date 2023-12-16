@@ -1,0 +1,17 @@
+package com.mkRahul;
+
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.*;
+import javax.servlet.http.HttpServletResponse;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+public class sqServlet extends HttpServlet {
+	public void doGet(HttpServletRequest req,HttpServletResponse res) throws IOException {
+		int k=(int)req.setAttribute("num1");
+		PrintWriter out=res.getWriter();
+		out.println("Hello This Is Sq Servelet");
+	}
+}

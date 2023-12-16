@@ -1,0 +1,1 @@
+memory for 10 integers

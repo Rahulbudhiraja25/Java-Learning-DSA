@@ -1,0 +1,67 @@
+It is building block of a program that has enclosed tham a curly bracket it takes input, compute on it and give output
+it is of two types 
+1-user defined function 
+2-library function or inbuilt function
+
+prefetch function 
+getch()
+printf()
+scanf()
+gets()
+puts()
+
+User defined function:-It is defined by user what is the input ,what is the outpput,compute on what decisionit is fully decide by the user ,it is called user defined function
+
+It is defined in  4 ways:
+1.return type with argument:- it is also called parameter
+2.return type  without argument
+3.No return type but argument 
+4.No return type no argument
+
+Syntax of function declared:-
+
+--> <return type> <name of function>(type of argument)
+Example 
+1.void function1(int a,int b);
+2.int function2(int a);
+
+
+1.return type with argument:-
+int abc(int x, int y)
+abc- name of the function
+int x,y- list of arguments
+int- return type
+
+2.return type  without argument:-
+void function();
+
+3.No return type no argument:-
+int abc(){
+
+}
+4.No return type but arument:-
+void function(int x.int y);
+
+
+Calling of function:-Function can be called by two ways
+1.- Call by value 
+2.- Call by referance
+
+Call  by value:-
+#include<stdio.h>
+int add(int a,int b);
+int main(){
+int x, r,y;
+printf("Enter the value of x and y" );
+scanf("%d %d",&x,&y);
+r=add(x,y);
+printf("%d",r);
+return 0;
+}
+
+int add(int a,int b){
+
+    int result;
+    result =a+b;
+    return result;
+}
