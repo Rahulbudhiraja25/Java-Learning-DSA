@@ -1,0 +1,1 @@
+fprintf("Table of %d is :\n\n",a);

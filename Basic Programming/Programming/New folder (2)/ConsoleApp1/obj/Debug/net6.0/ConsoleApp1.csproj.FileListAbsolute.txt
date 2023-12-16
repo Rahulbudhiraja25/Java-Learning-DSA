@@ -1,0 +1,15 @@
+G:\Programming\New folder (2)\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+G:\Programming\New folder (2)\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\New folder (2)\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\Programming\New folder (2)\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+G:\Programming\New folder (2)\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Programming\New folder (2)\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+G:\Programming\New folder (2)\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+G:\Programming\New folder (2)\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+G:\Programming\New folder (2)\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+G:\Programming\New folder (2)\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+G:\Programming\New folder (2)\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+G:\Programming\New folder (2)\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+G:\Programming\New folder (2)\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+G:\Programming\New folder (2)\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+G:\Programming\New folder (2)\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
